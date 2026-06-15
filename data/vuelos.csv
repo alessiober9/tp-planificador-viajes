@@ -1,0 +1,6 @@
+codigo,origen,destino,fecha,hora,precio,asientos
+V001,Buenos Aires,Madrid,2025-12-10,08:00,850.00,20
+V002,Buenos Aires,Miami,2025-11-15,14:30,620.00,15
+V003,Buenos Aires,Roma,2025-12-20,22:00,920.00,10
+V004,Buenos Aires,Cancun,2025-11-28,06:45,480.00,25
+V005,Buenos Aires,Paris,2026-01-05,10:15,980.00,8

@@ -1,0 +1,6 @@
+id,nombre,ciudad,precio_noche,cupo
+H001,Hotel Gran Via,Madrid,120.00,10
+H002,Hotel Ocean Drive,Miami,95.00,12
+H003,Hotel Coliseo,Roma,140.00,8
+H004,Hotel Caribe,Cancun,85.00,20
+H005,Hotel Eiffel View,Paris,160.00,6

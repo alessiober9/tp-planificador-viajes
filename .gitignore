@@ -1,0 +1,16 @@
+# Compilados
+*.o
+*.exe
+*.out
+planificador
+
+# Archivos generados por el programa
+itinerario.dat
+log.dat
+
+# Dev-C++ project files
+*.dev
+*.layout
+
+# VS Code
+.vscode/

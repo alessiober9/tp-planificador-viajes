@@ -1,0 +1,6 @@
+id,ciudad,descripcion,fecha,precio,cupo
+E001,Madrid,Visita al Museo del Prado,2025-12-11,25.00,30
+E002,Miami,Paseo en bote por los Everglades,2025-11-16,60.00,15
+E003,Roma,Tour por el Coliseo y el Foro Romano,2025-12-21,35.00,20
+E004,Cancun,Snorkeling en arrecife de coral,2025-11-29,45.00,25
+E005,Paris,Crucero nocturno por el Sena,2026-01-06,55.00,18
