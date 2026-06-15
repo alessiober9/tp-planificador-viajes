@@ -1,4 +1,4 @@
-#include "TP.hpp"
+#include "funciones.hpp"
 
 // --- FUNCIÓN PRINCIPAL (VERSIÓN INTERACTIVA) ---
 
