@@ -1,4 +1,4 @@
-# 🗺️ Planificador de Vacaciones
+# Planificador de Vacaciones
 
 Trabajo Práctico final de **Algoritmos y Estructuras de Datos** — UTN FRBA.
 
@@ -6,7 +6,7 @@ Sistema de gestión de viajes desarrollado en **C++** que permite a agentes de t
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 | # | Función |
 |---|---------|
@@ -24,7 +24,7 @@ Sistema de gestión de viajes desarrollado en **C++** que permite a agentes de t
 
 ---
 
-## 🧱 Estructuras de datos utilizadas
+## Estructuras de datos utilizadas
 
 - **Lista enlazada**: catálogos de vuelos, hoteles y excursiones; itinerario del cliente (ordenado por fecha).
 - **Pila (stack)**: historial de acciones para implementar el *undo*.
@@ -33,7 +33,7 @@ Sistema de gestión de viajes desarrollado en **C++** que permite a agentes de t
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 tp-planificador-vacaciones/
@@ -53,7 +53,7 @@ tp-planificador-vacaciones/
 
 ---
 
-## ▶️ Compilación y ejecución
+## Compilación y ejecución
 
 **Requisito:** tener instalado `g++` (MinGW en Windows o GCC en Linux/Mac).
 
@@ -69,7 +69,7 @@ g++ src/main.cpp src/funciones.cpp -o planificador
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Lenguaje:** C++
 - **Compilador:** g++ / MinGW
