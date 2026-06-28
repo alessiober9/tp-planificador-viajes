@@ -73,5 +73,5 @@ g++ src/main.cpp src/funciones.cpp -o planificador
 
 - **Lenguaje:** C++
 - **Compilador:** g++ / MinGW
-- **IDE usado en desarrollo:** Dev-C++
+- **Editor de Código usado en desarrollo:** Visual Studio Code
 - **Paradigma:** Programación estructurada con manejo dinámico de memoria (punteros)
